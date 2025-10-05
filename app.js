@@ -34,7 +34,7 @@ class AIParentingApp {
         icon: "🔔"
       }
     ];
-    this.apiEndpoint = 'http://localhost:8000/analyze';
+    this.apiEndpoint = 'https://ai-pal-backend.onrender.com';
     this.privacyFeatures = [
       "No data is sent to the cloud",
       "Voice input is processed locally", 
